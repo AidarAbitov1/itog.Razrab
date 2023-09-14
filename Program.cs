@@ -17,3 +17,18 @@ void MethodCreateInputArray(string[] InputArray) // принимает масс�
         Write($"{InputArray[i]}");
     }
 }
+
+void MethodCreateOutputArray(string[] OutputArray) 
+{                                                  
+    Write($"Output array: ");                      
+    string[] newarr = new string[OutputArray.Length];
+    for (int i = 0; i < OutputArray.Length; i++)    
+    {                                               
+        if (OutputArray[i].Length <=3)
+        {
+            newarr[i] = OutputArray[i];
+            Write($"{newarr[i]}");
+        }
+    }
+    WriteLine();
+}
