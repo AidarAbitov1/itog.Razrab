@@ -1,4 +1,4 @@
-﻿sing System;
+﻿using System;
 using static System.Console;
 
 string[]array = {"Hello,",  "2,",  "world,",   "1234,",     "1567,", "123,", "qws", "+_)", "computer science,"};       
