@@ -3,3 +3,13 @@ C:\Users\Айдар\Desktop\Гик\Разраб итоговая\obj\Debug\net6.
 C:\Users\Айдар\Desktop\Гик\Разраб итоговая\obj\Debug\net6.0\Разраб итоговая.AssemblyInfoInputs.cache
 C:\Users\Айдар\Desktop\Гик\Разраб итоговая\obj\Debug\net6.0\Разраб итоговая.AssemblyInfo.cs
 C:\Users\Айдар\Desktop\Гик\Разраб итоговая\obj\Debug\net6.0\Разраб итоговая.csproj.CoreCompileInputs.cache
+C:\Users\Айдар\Desktop\Гик\Разраб итоговая\bin\Debug\net6.0\Разраб итоговая.exe
+C:\Users\Айдар\Desktop\Гик\Разраб итоговая\bin\Debug\net6.0\Разраб итоговая.deps.json
+C:\Users\Айдар\Desktop\Гик\Разраб итоговая\bin\Debug\net6.0\Разраб итоговая.runtimeconfig.json
+C:\Users\Айдар\Desktop\Гик\Разраб итоговая\bin\Debug\net6.0\Разраб итоговая.dll
+C:\Users\Айдар\Desktop\Гик\Разраб итоговая\bin\Debug\net6.0\Разраб итоговая.pdb
+C:\Users\Айдар\Desktop\Гик\Разраб итоговая\obj\Debug\net6.0\Разраб итоговая.dll
+C:\Users\Айдар\Desktop\Гик\Разраб итоговая\obj\Debug\net6.0\refint\Разраб итоговая.dll
+C:\Users\Айдар\Desktop\Гик\Разраб итоговая\obj\Debug\net6.0\Разраб итоговая.pdb
+C:\Users\Айдар\Desktop\Гик\Разраб итоговая\obj\Debug\net6.0\Разраб итоговая.genruntimeconfig.cache
+C:\Users\Айдар\Desktop\Гик\Разраб итоговая\obj\Debug\net6.0\ref\Разраб итоговая.dll

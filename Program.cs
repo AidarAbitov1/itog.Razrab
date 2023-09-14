@@ -1,7 +1,7 @@
 ﻿using System;
 using static System.Console;
 
-string[]array = {"Hello,",  "2,",  "world,",   "1234,",     "1567,", "123,", "qws", "+_)", "computer science,"};       
+string[]array = {"Hello,",  "13",  "cat",   "1234,",     "55555,", "123,", "qwerty", "-=09", "itog"};       
 WriteLine();  //Создаём массив строк array содердажащий некоторые значения
 MethodCreateInputArray(array); //Выводим метод первый 
 WriteLine();
